@@ -6,3 +6,7 @@
 ###### H6 Header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` java
+String str = "Hello World!";
+```
